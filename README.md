@@ -17,6 +17,10 @@ Site estático, sem build — basta abrir `index.html` ou publicar a pasta em qu
 - **Cor**: verde-sinal `#008037`, preto `#0A0B0A`, papel `#F4F5F2`. Sem degradê, sem sombra.
 - **Tipografia**: Space Grotesk (texto) + JetBrains Mono (etiquetas e código).
 
+## Publicação
+
+Publicado pelo GitHub Pages (branch `main`, pasta raiz) no domínio **https://bzr.tec.br**, definido no arquivo `CNAME`.
+
 ## Antes de publicar
 
 - Troque o e-mail de contato em `index.html` (procure por `contato@seudominio.com.br`).
