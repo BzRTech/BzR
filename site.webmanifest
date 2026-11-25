@@ -1,0 +1,8 @@
+{
+  "name": "BzR Technology",
+  "short_name": "BzR",
+  "icons": [{ "src": "assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#008037",
+  "background_color": "#F4F5F2",
+  "display": "standalone"
+}
